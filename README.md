@@ -7,8 +7,8 @@ This project goes beyond querying a single table. Starting from 8 raw, heterogen
 ## Datasets Used (8 tables)
 
 - artist -- Artist name, nationality, style, birth/death year
-- work -- Painting name, artist, style,
-- museum -- museumMuseum name, city, country, hours
+- work -- Painting name, artist, style,museum
+- museum -- Museum name, city, country, hours
 - museum_hours -- Opening and closing hours by day
 - canvas_size -- Canvas dimensions and labels
 - product_size -- Painting size and pricing data
